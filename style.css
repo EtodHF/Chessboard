@@ -1,0 +1,28 @@
+.board{
+    width: 640px;
+    height: 640px;
+    border: 15px solid red;
+}
+.white{
+    width: 80px;
+    background-color: yellow;
+    font-size: 50px;
+    height: 80px;
+    text-align: center;
+    float: left;
+    display: table-cell;
+    vertical-align: middle;
+}
+.brown{
+    width: 80px;
+    background-color: brown;
+    font-size: 50px;
+    height: 80px;
+    text-align: center;
+    float: left;
+    display: table-cell;
+    vertical-align: middle;
+}
+body{
+    padding-left: 300px;
+}
